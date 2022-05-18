@@ -1,3 +1,3 @@
 # test-rdf-repo
-for testing purposess
+for testing purpose
 
